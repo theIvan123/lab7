@@ -32,11 +32,15 @@
     <QtMoc Include="lab7.h">
       <Filter>Header Files</Filter>
     </QtMoc>
+    <ClInclude Include="ArchivoContactos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClCompile Include="ArchivoContactos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="lab7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

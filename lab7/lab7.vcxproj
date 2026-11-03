@@ -100,6 +100,8 @@
     <QtRcc Include="lab7.qrc" />
     <QtUic Include="lab7.ui" />
     <QtMoc Include="lab7.h" />
+    <ClInclude Include="ArchivoContactos.h" />
+    <ClCompile Include="ArchivoContactos.cpp" />
     <ClCompile Include="lab7.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
