@@ -1,0 +1,38 @@
+# Variables de entorno y secretos (¡Muy importante!)
+.env
+.env.local
+.env.*.local
+
+# Dependencias comunes
+node_modules/
+vendor/
+.vs/
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+
+# Carpetas de compilación y distribución
+/build/
+/dist/
+/out/
+*.class
+*.exe
+*.o
+
+# Archivos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Configuraciones de editores de código (IDEs)
+.vscode/
+.idea/
+*.suo
+*.sln
+*.sw?
+
+# Logs y bases de datos locales
+*.log
+*.sqlite
